@@ -1,0 +1,12 @@
+There are two parts to the case study. In part A covers the Pythonic implementation of the concepts underlying frequentist inference. 
+In Part B, I will apply those implementations to a real-world scenario. 
+
+I ll be implementing the following concepts through the case study:
+
+The z-statistic
+The t-statistic
+The Central Limit Theorem
+Estimation of the population standard deviation and mean, from a sample
+Sampling distribution of a test statistic, particularly for the mean
+Calculating confidence intervals and p-values
+Hypothesis testing
