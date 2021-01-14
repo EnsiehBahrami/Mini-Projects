@@ -1,7 +1,17 @@
+
+**An administrator is working on the hospital's business operations plan and needs me to help them answer some business questions.**
+
+I'm going to use frequentist statistical inference on a data sample to answer the questions:
+
+1) Has the hospital's revenue stream fallen below a key threshold (12000$)?
+2) Are patients with insurance really charged different amounts than those without?
+
+
+
 There are two parts to the case study. In part A covers the Pythonic implementation of the concepts underlying frequentist inference. 
 In Part B, I will apply those implementations to a real-world scenario. 
 
-I ll be implementing the following concepts through the case study:
+I will be implementing the following concepts through the case study:
 
 The z-statistic
 The t-statistic
