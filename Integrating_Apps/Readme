@@ -7,8 +7,8 @@ In this case study, I will analyze whether there is a significant difference bet
 If there's not, I can always just flip a coin to pick which platform to use at random. 
 
 
-Techniques:
-## Stages of the project:
+
+Technical stages of the project:
 
 1. Sourcing and loading 
     * Load the two datasets
@@ -33,6 +33,4 @@ Techniques:
 
 
 4. Evaluating and concluding 
-    * What is our conclusion?
-    * What is our decision?
-    * Other models we could have used. 
+     
