@@ -14,13 +14,13 @@ Technical steps:
 - Visualizing correlations
   
   
-3. Modeling** 
+3. Modeling 
 - Train/Test split
 - Making a Linear regression model: your first model
 - Making a Linear regression model: your second model: Ordinary Least Squares (OLS) 
 - Making a Linear regression model: your third model: multiple linear regression
 - Making a Linear regression model: your fourth model: **avoiding redundancy**
 
-**4. Evaluating and concluding** 
+4. Evaluating and concluding 
 - Reflection 
 - Which model was best?
