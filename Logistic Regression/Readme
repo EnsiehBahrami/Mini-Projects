@@ -1,1 +1,11 @@
 
+Classification problem: Predicting gender based on height and weight of a person.
+
+The height and wight of 10,000 male and female are available. Height and weight of both class have noraml distributions with diffrent mean and std. I tried to find a 
+maximum-margin classifier where constructs a decision boundary that is far as possible away from both classes of points. Logistic regressor classifier has 92% accuracy on 
+both test and training sets.
+
+
+Techniques:
+logistic regression
+GridSearchCv: cross validating to find the best regularization strength
