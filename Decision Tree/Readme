@@ -1,0 +1,52 @@
+
+Senario:
+RR Diner Coffee sells two types of thing:
+- specialty coffee beans, in bulk (by the kilogram only) 
+- coffee equipment and merchandise (grinders, brewing equipment, mugs, books, t-shirts).
+
+RR Diner Coffee has three stores, two in Europe and one in the USA. The flagshap store is in the USA, and everything is quality assessed there, before being shipped out. 
+Customers further away from the USA flagship store have higher shipping charges. 
+The company are turning towards using data science and machine learning to systematically make decisions about which coffee farmers they should strike deals with. 
+RR Diner Coffee typically buys coffee from farmers, processes it on site, brings it back to the USA, roasts it, packages it, markets it, and ships it (only in bulk,
+and after quality assurance) to customers internationally. These customers all own coffee shops in major cities like New York, Paris, London, Hong Kong, Tokyo, and Berlin
+Now, RR Diner Coffee has a decision about whether to strike a deal with a legendary coffee farm (known as the **Hidden Farm**) in rural China: there are rumours their
+coffee tastes of lychee and dark chocolate, while also being as sweet as apple juice.
+It's a risky decision, as the deal will be expensive, and the coffee might not be bought by customers. The stakes are high: times are tough, stocks are low, farmers 
+are reverting to old deals with the larger enterprises and the publicity of selling *Hidden Farm* coffee could save the RR Diner Coffee business. 
+
+
+Business Problem:
+If more than 70% of the interviewed customers are likely to buy the Hidden Farm coffee, I will strike the deal with the local Hidden Farm farmers and sell the
+coffee. Otherwise, I won't strike the deal and the Hidden Farm coffee will remain in legends only. There's some doubt in my mind about whether 70% is a reasonable threshold,
+but it'll do for the moment. 
+
+
+Techniques steps:
+To solve the problem, I built a decision tree to implement a classification solution. 
+
+**1. Sourcing and loading** 
+- Import packages
+- Load data
+- Explore the data
+
+ 
+**2. Cleaning, transforming and visualizing**
+- Cleaning the data
+- Train/test split
+  
+  
+**3. Modelling** 
+- Model 1: Entropy model - no max_depth
+- Model 2: Gini impurity model - no max_depth
+- Model 3: Entropy model - max depth 3
+- Model 4: Gini impurity model - max depth 3
+
+
+**4. Evaluating and concluding** 
+- How many customers will buy Hidden Farm coffee?
+- Decision
+
+**5. Random Forest** 
+- Import necessary modules
+- Model
+- Revise conclusion
