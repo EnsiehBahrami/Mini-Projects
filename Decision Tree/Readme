@@ -21,19 +21,12 @@ coffee. Otherwise, I won't strike the deal and the Hidden Farm coffee will remai
 but it'll do for the moment. 
 
 
-Techniques steps:
+Technical steps:
 To solve the problem, I built a decision tree to implement a classification solution. 
 
 **1. Sourcing and loading** 
-- Import packages
-- Load data
-- Explore the data
 
- 
 **2. Cleaning, transforming and visualizing**
-- Cleaning the data
-- Train/test split
-  
   
 **3. Modelling** 
 - Model 1: Entropy model - no max_depth
@@ -43,10 +36,6 @@ To solve the problem, I built a decision tree to implement a classification solu
 
 
 **4. Evaluating and concluding** 
-- How many customers will buy Hidden Farm coffee?
-- Decision
 
 **5. Random Forest** 
-- Import necessary modules
-- Model
-- Revise conclusion
+
