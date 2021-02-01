@@ -1,0 +1,7 @@
+
+What am I going to predict?
+Apply Gradient Boosting algorithm to a classification problem. Specifically, the Titanic dataset and predicting survival.
+
+
+Technique:
+Gradient Boosting Classifier
