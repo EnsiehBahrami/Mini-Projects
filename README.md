@@ -1,6 +1,7 @@
 # Mini-Projects
+pandas profiling
 
-API
+Integrating Apps
 
 Linear Regression
 
