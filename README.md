@@ -12,3 +12,5 @@ Decision Tree
 Random Forest Tree
 
 Gradient Boosting Classifier
+
+Euclidean and Manhattan Distance Calculations
