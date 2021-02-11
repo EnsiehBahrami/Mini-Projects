@@ -16,3 +16,5 @@ Gradient Boosting Classifier
 Euclidean and Manhattan Distance Calculations
 
 Cosine Similarity Calculations
+
+KMeans clustering
