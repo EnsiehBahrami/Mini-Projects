@@ -13,7 +13,6 @@ In this case study, I will use the cosine similarity to compare both a numeric d
 Technichal methods:
   1) sklearn.metrics.pairwise module 
   
- 
- ![Image](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png?raw=true)
+ ![header image](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png)
  
  
