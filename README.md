@@ -14,3 +14,5 @@ Random Forest Tree
 Gradient Boosting Classifier
 
 Euclidean and Manhattan Distance Calculations
+
+Cosine Similarity Calculations
