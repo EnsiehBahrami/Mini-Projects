@@ -12,3 +12,6 @@ Techniques:
   2) 'CountVectorizer' and 'TfidfVectorizer' from sklearn.feature_extraction.text module
   
  ![alt text](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png)
+
+
+ ![alt text](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png)
