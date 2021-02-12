@@ -14,4 +14,4 @@ Techniques:
  ![alt text](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png)
 
 
- ![alt text](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/similarity-cosine.png)
+ ![alt text](https://github.com/EnsiehBahrami/Mini-Projects/blob/main/Cosine%20Similarity/Images/cosine-3D.png)
