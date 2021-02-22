@@ -18,3 +18,5 @@ Euclidean and Manhattan Distance Calculations
 Cosine Similarity Calculations
 
 KMeans clustering
+
+GridSearchCV for KNeighborsClassifier and RandomForestClassifier Models
