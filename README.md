@@ -20,3 +20,5 @@ Cosine Similarity Calculations
 KMeans clustering
 
 GridSearchCV for KNeighborsClassifier and RandomForestClassifier Models
+
+Bayesian methods of hyperparameter optimization
