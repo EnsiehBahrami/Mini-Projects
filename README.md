@@ -26,3 +26,5 @@ Bayesian methods of hyperparameter optimization
 Storytelling
 
 ARIMA Model-Univariant Time Series Foresting
+
+A/B testing
