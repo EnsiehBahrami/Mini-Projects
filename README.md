@@ -1,30 +1,30 @@
 # Mini-Projects
 * pandas profiling
 
-Integrating Apps
+* Integrating Apps
 
-Linear Regression
+* Linear Regression
 
-Logistic Regression
+* Logistic Regression
 
-Decision Tree
+* Decision Tree
 
-Random Forest Tree
+* Random Forest Tree
 
-Gradient Boosting Classifier
+* Gradient Boosting Classifier
 
-Euclidean and Manhattan Distance Calculations
+* Euclidean and Manhattan Distance Calculations
 
-Cosine Similarity Calculations
+* Cosine Similarity Calculations
 
-KMeans clustering
+* KMeans clustering
 
-GridSearchCV for KNeighborsClassifier and RandomForestClassifier Models
+* GridSearchCV for KNeighborsClassifier and RandomForestClassifier Models
 
-Bayesian methods of hyperparameter optimization
+* Bayesian methods of hyperparameter optimization
 
-Storytelling
+* Storytelling
 
-ARIMA Model-Univariant Time Series Foresting
+* ARIMA Model-Univariant Time Series Foresting
 
-A/B testing
+* A/B testing
