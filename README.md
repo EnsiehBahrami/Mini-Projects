@@ -1,5 +1,5 @@
 # Mini-Projects
-pandas profiling
+* pandas profiling
 
 Integrating Apps
 
